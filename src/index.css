@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Nixie One', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, #654ea3, #eaafc8);
+}
+
+button{
+  cursor: pointer;
+}
